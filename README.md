@@ -57,7 +57,7 @@ Modify che .htaccess file inside the public folder to match the name of your ins
 
 ### Install the Database
 
-Create a database of your choice in PhpMyAdmin and import the traversy_mvc.sql file in it.
+Create a database of your choice in PhpMyAdmin 
 
 
 ## Built With
