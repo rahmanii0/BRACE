@@ -10,7 +10,7 @@
 
 ### Disclaimer
 
-It's not advisable to use this for live projects as this is still an alpha project I'm using to learn and exercise.
+It's not advisable to use this for live projects as this is still an alpha project I'm using to learn and exercise inspired by **Traversy**.
 If you are inclined to help with bugs corrections and developing new features you are free to do so.
 
 ## Getting Started
