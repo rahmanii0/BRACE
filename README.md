@@ -65,7 +65,7 @@ Create a database of your choice in PhpMyAdmin
 
 ## Authors
 
-### Micro PHP framework created by [Abd-Elrahman Mohamed](https://www.linkedin.com/in/rahmanii/) 
+### Micro PHP framework created by [Abd-Elrahman Mohamed](https://www.linkedin.com/in/rahmanii/) :pencil2:
 
 
 ### The framework's name [BRACE] was chosen by [ Rewan Gameel ](https://www.linkedin.com/in/rewan-gameel-022459179/) :muscle:
