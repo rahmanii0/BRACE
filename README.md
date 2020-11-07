@@ -1,9 +1,6 @@
 # BRACE Micro MVC PHP framework !
 
-### Micro PHP framework created by [Abd-Elrahman Mohamed](https://www.linkedin.com/in/rahmanii/) 
 
-
-### The framework's name [BRACE] was chosen by [ Rewan Gameel ](https://www.linkedin.com/in/rewan-gameel-022459179/)
 
 
 
@@ -68,7 +65,10 @@ Create a database of your choice in PhpMyAdmin
 
 ## Authors
 
-* **Abd-Elrahman Mohamed** 
+### Micro PHP framework created by [Abd-Elrahman Mohamed](https://www.linkedin.com/in/rahmanii/) 
+
+
+### The framework's name [BRACE] was chosen by [ Rewan Gameel ](https://www.linkedin.com/in/rewan-gameel-022459179/) :muscle:
 
 
 ## License
